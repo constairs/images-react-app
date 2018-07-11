@@ -7656,10 +7656,10 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 1
+  Exit code: 3221225786
   Command: C:\WINDOWS\system32\cmd.exe
   Arguments: /d /s /c node server.js
-  Directory: D:\_projects\app-sibext
+  Directory: D:\_projects\quick-test-task
   Output:
   
       at ProcessTermError.MessageError (C:\Program Files (x86)\Yarn\lib\cli.js:186:110)
