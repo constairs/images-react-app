@@ -18,10 +18,10 @@
 - верстка таблицами.
 
 Макеты экранов (внешние ссылки):
-- Desktop
-- Desktop popup
-- Mobile
-- Mobile popup
+- Desktop (https://drive.google.com/file/d/1b1ds2sOJhVjEjMtDLxJbTunrZBh1a-fl/view)
+- Desktop popup (https://drive.google.com/file/d/1Mc0Ujo98VjgqmLDM1asNzlDkbk5ZxKNc/view)
+- Mobile (https://drive.google.com/file/d/1tfzbj_MfzqBlRXA50AsqOeN6Po2CWU2k/view)
+- Mobile popup (https://drive.google.com/file/d/1AkAxo3Yr11XB8aothNxcOexcnisobvN8/view)
 
 Если есть какие-то вопросы по тестовому заданию - о них следует написать
-на ​ react@sibext.com​ ​ перед выполнением тестового задания.
+на ​ job@sibext.com​ ​ перед выполнением тестового задания.
